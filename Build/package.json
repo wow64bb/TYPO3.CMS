@@ -102,7 +102,7 @@
     "moment-timezone": "^0.5.31",
     "muuri": "^0.9.3",
     "nprogress": "^0.2.0",
-    "requirejs": "^2.3.6",
+    "requirejs": "^2.3.7",
     "sortablejs": "^1.12.0",
     "source-sans-pro": "^3.6.0",
     "tablesort": "^5.2.1",
